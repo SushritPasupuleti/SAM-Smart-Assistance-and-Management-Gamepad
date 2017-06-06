@@ -1,0 +1,7 @@
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM Gamepad.csprojResolveAssemblyReference.cache
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM._Ultimate.Gamepad.resources
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM._Ultimate.GamepadCEditor.resources
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM._Ultimate.Gamepadslots.resources
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM._Ultimate.GamepadTest.resources
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM_Gamepad.Properties.Resources.resources
+C:\Users\sushr\Documents\Visual Studio 2017\Projects\SAM Gamepad\SAM Gamepad\obj\Debug\SAM Gamepad.csproj.GenerateResource.Cache
